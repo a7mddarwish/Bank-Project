@@ -1,0 +1,54 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bank_OOP_MySol.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bank_OOP_MySol.cpp
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsUsers.h(86,7): warning C4240: nonstandard extension used: access to 'ClsUsers::enMode' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_OOP_MySol.cpp')
+      D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsUsers.h(16,7):
+      see declaration of 'ClsUsers::enMode'
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsUsers.h(106,9): warning C4240: nonstandard extension used: access to 'ClsUsers::StRegisterLogin' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_OOP_MySol.cpp')
+      D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsUsers.h(14,9):
+      see declaration of 'ClsUsers::StRegisterLogin'
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsBankClient.h(167,7): warning C4240: nonstandard extension used: access to 'ClsBankClient::enMode' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank_OOP_MySol.cpp')
+      D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsBankClient.h(16,7):
+      see declaration of 'ClsBankClient::enMode'
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsBankClient.h(209,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsUpdateClientScreen.h(64,11): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\clsTotalBalancesScreen.h(58,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsTransActionMenu.h(132,11): warning C4129: 'T': unrecognized character escape sequence
+  (compiling source file 'Bank_OOP_MySol.cpp')
+  
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsBankClient.h(332,1): warning C4715: 'ClsBankClient::Find': not all control paths return a value
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsBankClient.h(462,1): warning C4715: 'ClsBankClient::Save': not all control paths return a value
+D:\Programming\PA\Bank_OOP_MySol\Bank_OOP_MySol\ClsUsers.h(407,1): warning C4715: 'ClsUsers::Save': not all control paths return a value
+  Bank_OOP_MySol.vcxproj -> D:\Programming\PA\Bank_OOP_MySol\x64\Debug\Bank_OOP.exe
